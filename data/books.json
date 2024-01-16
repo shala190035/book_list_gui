@@ -1,0 +1,26 @@
+[
+  {
+    "Titel": "Die Verwandlung",
+    " Autor": " Franz Kafka",
+    " Veroeffentlichungsjahr": 1915,
+    " Genre": " Roman"
+  },
+  {
+    "Titel": "1984",
+    " Autor": " George Orwell",
+    " Veroeffentlichungsjahr": 1949,
+    " Genre": " Dystopie"
+  },
+  {
+    "Titel": "To Kill a Mockingbird",
+    " Autor": " Harper Lee",
+    " Veroeffentlichungsjahr": 1960,
+    " Genre": " Roman"
+  },
+  {
+    "Titel": "The Catcher in the Rye",
+    " Autor": " J.D. Salinger",
+    " Veroeffentlichungsjahr": 1951,
+    " Genre": " Coming-of-Age"
+  }
+]
